@@ -1,6 +1,7 @@
 require "sinatra"
 require "sinatra/json"
 require "json"
+require "pry"
 
 CURRENT_FILE_PATH = File.dirname(__FILE__)
 
